@@ -1,0 +1,18 @@
+﻿# Chapter 1: Awakening
+
+[id: intro]
+You wake up in a dark room.
+Your head hurts.
+
+> Look around -> look_around
+> Go back to sleep -> sleep_again
+
+---
+
+[id: look_around]
+You see a faint light under the door.
+
+---
+
+[id: sleep_again]
+You drift back into uneasy dreams...
